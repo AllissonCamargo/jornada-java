@@ -3,7 +3,7 @@ package arrays;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class array_negativos {
+public class Array_Negativos {
 
 	public static void main(String[] args) {
 

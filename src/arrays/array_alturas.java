@@ -3,7 +3,7 @@ package arrays;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class array_alturas {
+public class Array_Alturas {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
