@@ -1,6 +1,6 @@
-package Copositions.Entities;
+package compositions.exercise1.Entities;
 
-import Copositions.Enums.WorkerLevel;
+import compositions.exercise1.Enums.WorkerLevel;
 
 import java.util.ArrayList;
 import java.util.Calendar;

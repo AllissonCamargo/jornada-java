@@ -1,4 +1,4 @@
-package Copositions.Entities;
+package compositions.exercise1.Entities;
 
 public class Department {
     private String name;

@@ -1,4 +1,4 @@
-package Lists.exercise_list;
+package lists.exercise_list;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;

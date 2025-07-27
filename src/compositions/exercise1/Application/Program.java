@@ -1,9 +1,9 @@
-package Copositions.Application;
+package compositions.exercise1.Application;
 
-import Copositions.Entities.Department;
-import Copositions.Entities.HourContract;
-import Copositions.Entities.Worker;
-import Copositions.Enums.WorkerLevel;
+import compositions.exercise1.Entities.Department;
+import compositions.exercise1.Entities.HourContract;
+import compositions.exercise1.Entities.Worker;
+import compositions.exercise1.Enums.WorkerLevel;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

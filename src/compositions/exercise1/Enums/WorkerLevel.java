@@ -1,4 +1,4 @@
-package Copositions.Enums;
+package compositions.exercise1.Enums;
 
 public enum WorkerLevel {
     JUNIOR,

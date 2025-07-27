@@ -1,4 +1,4 @@
-package Copositions.Entities;
+package compositions.exercise1.Entities;
 
 import java.util.Date;
 
